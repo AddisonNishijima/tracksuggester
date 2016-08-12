@@ -1,0 +1,37 @@
+.jumbotron  {
+  text-align: center;
+  font-family: fantasy;
+  background-color:  #4d4dff;
+}
+
+.container  h2{
+  text-align: center;
+  font-family: fantasy;
+}
+
+.container h4{
+  font-family: fantasy;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #9999ff;
+}
+
+body {
+  background-color:  #b3b3ff;
+}
+
+#javaOut {
+  display: none;
+}
+
+#phpOut {
+  display: none;
+}
+
+#designOut {
+  display: none;
+}
+
+.btn {
+  padding-top: 10px;
+}
