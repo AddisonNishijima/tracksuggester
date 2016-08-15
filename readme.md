@@ -18,7 +18,7 @@ _All required files are included with this project_
 
 ## Known Bugs
 
-_Form does not currently display result upon submission. If you find a resolution please contact me at addison.nishijima@gmail.com_
+_There are no known bugs. If you find a bug, please contact me at addison.nishijima@gmail.com_
 
 ## Support and contact details
 
