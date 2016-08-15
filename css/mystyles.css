@@ -25,6 +25,7 @@ body {
   background-color: #f2f2f2;
   text-align: center;
   font-family: fantasy;
+  font-size: 15pt;
 }
 
 #phpOut {
@@ -32,6 +33,7 @@ body {
   background-color: #f2f2f2;
   text-align: center;
   font-family: fantasy;
+  font-size: 15pt;
 }
 
 #designOut {
@@ -39,6 +41,7 @@ body {
   background-color: #f2f2f2;
   text-align: center;
   font-family: fantasy;
+  font-size: 15pt;
 }
 
 .btn {
